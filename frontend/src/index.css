@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* GLOBAL APP RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* DARK THEME ROOT */
+:root {
+  --bg-dark: #0d1117;
+  --bg-darker: #080b0f;
+  --text-light: #e7fbe8;
+  --neon-green: #5cff7a;
+}
+
+html,
+body {
+  width: 100%;
+  min-height: 100%;
+  overflow-x: hidden;  /* keep */
+  overflow-y: auto;    /* allow scrolling */
+  background: var(--bg-dark);
+  color: var(--text-light);
+  font-family: "Inter", sans-serif;
+}
+
+
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+/* Remove Vite defaults */
+a {
+  color: inherit;
+}
+button {
+  all: unset;
+  cursor: pointer;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(40px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0px) scale(1); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 1.5s ease-out forwards;
+}
+

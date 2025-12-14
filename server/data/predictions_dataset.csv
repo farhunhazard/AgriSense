@@ -1,0 +1,301 @@
+crop_type,ndvi,rainfall_mm,soil_moisture,nitrogen,phosphorus,potassium,pest_severity,disease_severity,days_since_sowing,temperature,humidity,region,season,farmer_report_text,yield_tpha
+rice,0.558,24.72,39.22,112.33,36.48,185.31,3.72,3.4,92,34.38,69.67,Maharashtra,Kharif,Farmer in Maharashtra reports crop rice with NDVI 0.558 and soil moisture 39.22%.,2.962
+wheat,0.499,53.69,41.84,112.01,23.54,231.23,1.43,2.22,115,32.9,54.88,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop wheat with NDVI 0.499 and soil moisture 41.84%.,3.132
+cotton,0.533,42.23,23.3,70.16,20.85,146.48,3.42,0,112,28.21,66.72,Karnataka,Summer,Farmer in Karnataka reports crop cotton with NDVI 0.533 and soil moisture 23.3%.,3.257
+soybean,0.503,110.73,36.45,145.84,21.95,210.1,0.73,1.88,32,29.97,63.31,Punjab,Kharif,Farmer in Punjab reports crop soybean with NDVI 0.503 and soil moisture 36.45%.,3.248
+rice,0.584,28.52,22.56,115.6,27.5,158.17,2.1,2.32,39,33.29,63.55,Karnataka,Kharif,Farmer in Karnataka reports crop rice with NDVI 0.584 and soil moisture 22.56%.,3.31
+cotton,0.596,56.97,46.8,79.33,15.98,192.99,2.68,5.12,148,30.81,42.89,Rajasthan,Rabi,Farmer in Rajasthan reports crop cotton with NDVI 0.596 and soil moisture 46.8%.,3.008
+cotton,0.661,47.77,48.48,102.51,27.4,128.42,0,2.35,58,31.69,44.39,Maharashtra,Rabi,Farmer in Maharashtra reports crop cotton with NDVI 0.661 and soil moisture 48.48%.,3.748
+soybean,0.505,51.79,44.66,84.18,25.73,147.84,5.58,4.29,137,33.55,83.81,Karnataka,Summer,Farmer in Karnataka reports crop soybean with NDVI 0.505 and soil moisture 44.66%.,2.528
+cotton,0.705,103.47,60.35,129.08,21.37,120.67,1.89,2.37,78,31.94,57.13,Punjab,Rabi,Farmer in Punjab reports crop cotton with NDVI 0.705 and soil moisture 60.35%.,3.689
+soybean,0.463,88.17,27.81,90.33,33.81,156.94,4.97,0.74,122,29.19,73.04,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop soybean with NDVI 0.463 and soil moisture 27.81%.,2.818
+cotton,0.335,73.6,46.6,100.89,14.82,150.45,6.69,5.55,71,24.81,62.66,Punjab,Rabi,Farmer in Punjab reports crop cotton with NDVI 0.335 and soil moisture 46.6%.,1.781
+maize,0.599,73.46,54.21,118.99,22.9,225.29,2.05,2.72,13,29.28,61.37,Karnataka,Summer,Farmer in Karnataka reports crop maize with NDVI 0.599 and soil moisture 54.21%.,3.32
+soybean,0.75,94.21,45.68,135.07,20.28,232.42,8.31,0,67,31.61,71.51,Maharashtra,Rabi,Farmer in Maharashtra reports crop soybean with NDVI 0.75 and soil moisture 45.68%.,3.419
+wheat,0.596,90.69,47.79,190,17.62,150.3,1.76,2.81,49,28.37,56.58,Maharashtra,Rabi,Farmer in Maharashtra reports crop wheat with NDVI 0.596 and soil moisture 47.79%.,3.331
+cotton,0.615,34.33,51.99,81.61,15.82,139.55,2.21,8.6,140,25.77,63.71,Kerala,Kharif,Farmer in Kerala reports crop cotton with NDVI 0.615 and soil moisture 51.99%.,2.764
+rice,0.534,65.25,43.47,114.15,22.73,190.96,0.22,0.29,130,21.92,64.46,Maharashtra,Kharif,Farmer in Maharashtra reports crop rice with NDVI 0.534 and soil moisture 43.47%.,3.551
+maize,0.599,58.4,41.51,95.7,24.49,202.54,3.21,1.72,47,31.46,51.54,Maharashtra,Summer,Farmer in Maharashtra reports crop maize with NDVI 0.599 and soil moisture 41.51%.,3.304
+cotton,0.652,31.47,17.66,185.89,28.17,234.25,0.3,1.77,140,28.25,52.04,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop cotton with NDVI 0.652 and soil moisture 17.66%.,3.749
+maize,0.561,20.92,45.33,186.32,27.48,221.34,3.03,0,116,26.2,48.58,Punjab,Kharif,Farmer in Punjab reports crop maize with NDVI 0.561 and soil moisture 45.33%.,3.38
+rice,0.634,38.65,38.54,80.04,25.58,249.09,3.98,3.81,10,29.22,83.43,Rajasthan,Kharif,Farmer in Rajasthan reports crop rice with NDVI 0.634 and soil moisture 38.54%.,3.123
+rice,0.702,58.17,36.75,123.38,29.79,188.74,2.4,1.92,135,26.83,66.73,Kerala,Kharif,Farmer in Kerala reports crop rice with NDVI 0.702 and soil moisture 36.75%.,3.674
+maize,0.754,42.46,33.95,96.95,24.07,164.19,5.35,4.2,133,20.6,63.43,Maharashtra,Summer,Farmer in Maharashtra reports crop maize with NDVI 0.754 and soil moisture 33.95%.,3.307
+rice,0.434,26.33,14.76,147.63,16.2,182.02,6.77,3.29,149,29.7,55.55,Karnataka,Summer,Farmer in Karnataka reports crop rice with NDVI 0.434 and soil moisture 14.76%.,2.296
+cotton,0.604,75.4,41.46,122.56,25.42,176.34,3.64,3.4,58,31.25,44.51,Maharashtra,Kharif,Farmer in Maharashtra reports crop cotton with NDVI 0.604 and soil moisture 41.46%.,3.108
+maize,0.379,84.69,55.28,84.29,16.89,179.34,5.06,3.02,69,30.39,67.26,Rajasthan,Kharif,Farmer in Rajasthan reports crop maize with NDVI 0.379 and soil moisture 55.28%.,2.329
+cotton,0.921,43.62,38.38,114.51,25.23,201.24,0,4.88,131,23.25,58.14,Punjab,Kharif,Farmer in Punjab reports crop cotton with NDVI 0.921 and soil moisture 38.38%.,4.275
+cotton,0.7,6.62,26.63,84.58,23.64,213.42,5.76,2.63,48,38.79,60.52,Maharashtra,Summer,Farmer in Maharashtra reports crop cotton with NDVI 0.7 and soil moisture 26.63%.,3.261
+cotton,0.654,50.42,34.54,85.19,22.22,154.95,2.62,0.57,138,17.97,49.46,Punjab,Rabi,Farmer in Punjab reports crop cotton with NDVI 0.654 and soil moisture 34.54%.,3.643
+soybean,0.655,69.33,54.27,109.79,10.25,143.73,4.6,0.72,122,29.21,63.96,Karnataka,Rabi,Farmer in Karnataka reports crop soybean with NDVI 0.655 and soil moisture 54.27%.,3.433
+wheat,0.585,48.37,43.71,121.01,10.88,133.6,4.47,1.46,13,26.11,59.65,Rajasthan,Kharif,Farmer in Rajasthan reports crop wheat with NDVI 0.585 and soil moisture 43.71%.,3.162
+maize,0.555,31.09,39.22,99.52,31.27,139.55,5.77,4.01,49,30.51,64.37,Maharashtra,Summer,Farmer in Maharashtra reports crop maize with NDVI 0.555 and soil moisture 39.22%.,2.687
+wheat,0.526,56.99,45.12,127.72,23.36,147.13,5.9,0,96,24.5,61.38,Maharashtra,Kharif,Farmer in Maharashtra reports crop wheat with NDVI 0.526 and soil moisture 45.12%.,2.988
+soybean,0.542,51.07,58.75,136.52,26.72,106.28,0.94,3.65,30,21.54,47.88,Kerala,Kharif,Farmer in Kerala reports crop soybean with NDVI 0.542 and soil moisture 58.75%.,3.167
+rice,0.341,51.27,51.45,96.21,19.54,148.62,2.49,0,107,25.39,66.44,Kerala,Summer,Farmer in Kerala reports crop rice with NDVI 0.341 and soil moisture 51.45%.,2.774
+rice,0.382,91.51,54.57,94.74,31.71,134.37,3.2,2.77,134,27.1,50.14,Kerala,Summer,Farmer in Kerala reports crop rice with NDVI 0.382 and soil moisture 54.57%.,2.549
+soybean,0.419,53.76,39.12,141.01,27.08,112.49,4.35,3.58,27,33.03,36.33,Punjab,Summer,Farmer in Punjab reports crop soybean with NDVI 0.419 and soil moisture 39.12%.,2.464
+maize,0.661,95.75,46.99,169.95,27.02,134.9,3.99,2.84,83,30.29,79.39,Kerala,Summer,Farmer in Kerala reports crop maize with NDVI 0.661 and soil moisture 46.99%.,3.3
+maize,0.442,90.09,65.9,101.7,26.23,209.5,0,0.78,121,28.49,65.97,Kerala,Rabi,Farmer in Kerala reports crop maize with NDVI 0.442 and soil moisture 65.9%.,3.248
+wheat,0.658,54.9,58.18,156.44,19.68,179.39,3.18,6.24,35,35.01,45.07,Kerala,Summer,Farmer in Kerala reports crop wheat with NDVI 0.658 and soil moisture 58.18%.,3.032
+cotton,0.752,54.44,36.36,113.7,26.96,142.2,3.32,2.67,86,23.72,75.87,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop cotton with NDVI 0.752 and soil moisture 36.36%.,3.657
+wheat,0.455,88.45,75.68,79.81,34.89,192.71,4.67,2.65,24,20.18,47.83,Punjab,Kharif,Farmer in Punjab reports crop wheat with NDVI 0.455 and soil moisture 75.68%.,2.633
+rice,0.404,23.24,48.42,130.58,22.45,180.05,7.06,7.55,120,29.23,50.27,Karnataka,Kharif,Farmer in Karnataka reports crop rice with NDVI 0.404 and soil moisture 48.42%.,1.751
+maize,0.481,61.49,48.43,147.61,38.33,282.93,0.24,3.48,115,27.68,67.09,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop maize with NDVI 0.481 and soil moisture 48.43%.,3.071
+soybean,0.535,113.84,74.73,95.68,24.17,162.47,1.89,2.93,53,23.1,63.56,Kerala,Rabi,Farmer in Kerala reports crop soybean with NDVI 0.535 and soil moisture 74.73%.,3.123
+maize,0.459,115.25,65.21,136.57,23.36,176.08,4.79,3.79,107,32.22,56.88,Punjab,Summer,Farmer in Punjab reports crop maize with NDVI 0.459 and soil moisture 65.21%.,2.519
+soybean,0.681,122.9,65.71,129.76,25.77,156.46,4.54,0,137,28.08,61.9,Kerala,Rabi,Farmer in Kerala reports crop soybean with NDVI 0.681 and soil moisture 65.71%.,3.589
+soybean,0.47,29.36,36.42,111.76,25.66,125.42,2.02,4.89,128,28.12,69.65,Tamil Nadu,Rabi,Farmer in Tamil Nadu reports crop soybean with NDVI 0.47 and soil moisture 36.42%.,2.719
+rice,0.558,111.08,63.86,85.06,26.83,153.2,2.57,2.73,12,27.93,69.9,Maharashtra,Kharif,Farmer in Maharashtra reports crop rice with NDVI 0.558 and soil moisture 63.86%.,3.144
+cotton,0.34,89.52,34.6,130.05,33.66,180.55,1.69,1.21,149,30.18,65.77,Karnataka,Summer,Farmer in Karnataka reports crop cotton with NDVI 0.34 and soil moisture 34.6%.,2.73
+maize,0.511,13.77,20.52,102.79,24.82,167.42,3.05,0,98,24.36,58.53,Punjab,Kharif,Farmer in Punjab reports crop maize with NDVI 0.511 and soil moisture 20.52%.,3.228
+soybean,0.583,36.33,53.85,147.39,23.68,182.56,4.84,0.02,118,29.33,73.38,Karnataka,Summer,Farmer in Karnataka reports crop soybean with NDVI 0.583 and soil moisture 53.85%.,3.263
+rice,0.594,66.27,51.16,124.38,10.95,202.49,2.98,3.85,60,30.03,60.79,Maharashtra,Kharif,Farmer in Maharashtra reports crop rice with NDVI 0.594 and soil moisture 51.16%.,3.099
+cotton,0.467,78.71,27.72,139.93,20.75,143.72,1.23,5.09,70,24.07,68.02,Maharashtra,Rabi,Farmer in Maharashtra reports crop cotton with NDVI 0.467 and soil moisture 27.72%.,2.769
+cotton,0.652,57.52,50.97,59.94,20.44,193.86,7.79,5,85,29.32,52.96,Rajasthan,Kharif,Farmer in Rajasthan reports crop cotton with NDVI 0.652 and soil moisture 50.97%.,2.677
+rice,0.487,60.56,44.3,64.17,17.77,197.45,3.87,3.67,111,38.1,64.77,Punjab,Summer,Farmer in Punjab reports crop rice with NDVI 0.487 and soil moisture 44.3%.,2.707
+rice,0.664,69.01,37.48,133.73,18.63,101.42,1.68,1.4,22,28.44,64.27,Punjab,Summer,Farmer in Punjab reports crop rice with NDVI 0.664 and soil moisture 37.48%.,3.684
+soybean,0.35,112.61,47.67,135.5,27.29,189.2,1.9,3.14,83,29.47,59.04,Kerala,Kharif,Farmer in Kerala reports crop soybean with NDVI 0.35 and soil moisture 47.67%.,2.546
+maize,0.642,106.28,43.61,146.39,16.98,218.33,5.39,1.17,66,32.12,58.7,Rajasthan,Kharif,Farmer in Rajasthan reports crop maize with NDVI 0.642 and soil moisture 43.61%.,3.27
+maize,0.47,51.49,53.44,128.59,25.43,286.03,5.43,2,45,26.21,53.04,Rajasthan,Kharif,Farmer in Rajasthan reports crop maize with NDVI 0.47 and soil moisture 53.44%.,2.667
+wheat,0.337,1.03,29.38,125.97,29.35,103.37,3.03,0.96,20,32.38,71.26,Kerala,Summer,Farmer in Kerala reports crop wheat with NDVI 0.337 and soil moisture 29.38%.,2.612
+rice,0.476,72.85,46,111.79,27.9,157.54,4.12,2.64,103,31.08,49.17,Maharashtra,Rabi,Farmer in Maharashtra reports crop rice with NDVI 0.476 and soil moisture 46.0%.,2.752
+maize,0.52,86.94,31.01,133.6,32.27,221.85,3.59,0,93,26.23,64.02,Punjab,Kharif,Farmer in Punjab reports crop maize with NDVI 0.52 and soil moisture 31.01%.,3.201
+cotton,0.527,28.77,39.23,159.42,15.41,195.53,4.08,0,43,22.75,81.29,Tamil Nadu,Rabi,Farmer in Tamil Nadu reports crop cotton with NDVI 0.527 and soil moisture 39.23%.,3.173
+soybean,0.59,65.97,51.99,169.35,30.13,146.32,3.99,3.99,138,25.51,74.1,Karnataka,Summer,Farmer in Karnataka reports crop soybean with NDVI 0.59 and soil moisture 51.99%.,2.972
+rice,0.706,49.58,46.39,145.21,17.63,162.93,2.85,1.51,133,31.53,64.67,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop rice with NDVI 0.706 and soil moisture 46.39%.,3.682
+rice,0.602,62.09,51.62,115.86,18.86,221.49,2.89,0,39,24.04,68.64,Kerala,Kharif,Farmer in Kerala reports crop rice with NDVI 0.602 and soil moisture 51.62%.,3.517
+cotton,0.465,74.37,40.73,130.36,20.8,151.56,0.56,3.16,67,32.34,75.08,Punjab,Rabi,Farmer in Punjab reports crop cotton with NDVI 0.465 and soil moisture 40.73%.,3.023
+cotton,0.44,2.44,29.45,96.97,24.49,189.86,1.47,5.5,33,27.96,51.07,Rajasthan,Kharif,Farmer in Rajasthan reports crop cotton with NDVI 0.44 and soil moisture 29.45%.,2.623
+cotton,0.712,62.14,38.03,138.11,24.25,205.74,1.25,3.64,147,21.05,51.66,Punjab,Kharif,Farmer in Punjab reports crop cotton with NDVI 0.712 and soil moisture 38.03%.,3.647
+wheat,0.583,101.8,49.23,127.71,25.6,135.59,3.72,3.42,77,32.5,63.57,Maharashtra,Kharif,Farmer in Maharashtra reports crop wheat with NDVI 0.583 and soil moisture 49.23%.,3.035
+soybean,0.295,71.64,28.52,159.47,14.16,146.09,1.23,0.62,105,26.74,59.79,Maharashtra,Summer,Farmer in Maharashtra reports crop soybean with NDVI 0.295 and soil moisture 28.52%.,2.7
+wheat,0.63,12.5,35.55,122.67,28.12,193.65,0.79,1.93,130,28.41,61.87,Kerala,Rabi,Farmer in Kerala reports crop wheat with NDVI 0.63 and soil moisture 35.55%.,3.618
+wheat,0.378,72.47,46.33,91.69,24.8,143.18,2.29,2.47,93,24,45.33,Rajasthan,Summer,Farmer in Rajasthan reports crop wheat with NDVI 0.378 and soil moisture 46.33%.,2.658
+soybean,0.58,52.1,56.51,97.53,22.36,129.74,3.3,1.02,26,27.35,82.66,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop soybean with NDVI 0.58 and soil moisture 56.51%.,3.308
+cotton,0.611,76.45,33.75,160.24,14.68,214.95,3,1.9,114,23.64,53.07,Kerala,Kharif,Farmer in Kerala reports crop cotton with NDVI 0.611 and soil moisture 33.75%.,3.343
+wheat,0.558,123.41,61.9,114.44,28.43,146.44,2.19,3.06,19,26.71,72.24,Tamil Nadu,Rabi,Farmer in Tamil Nadu reports crop wheat with NDVI 0.558 and soil moisture 61.9%.,3.149
+rice,0.482,75.97,55.15,112.91,28.1,284.35,0.63,4.44,34,30.02,64.78,Maharashtra,Rabi,Farmer in Maharashtra reports crop rice with NDVI 0.482 and soil moisture 55.15%.,2.939
+maize,0.419,96.71,45.57,130.74,25.05,201.26,3.73,0,109,33.45,63.12,Rajasthan,Rabi,Farmer in Rajasthan reports crop maize with NDVI 0.419 and soil moisture 45.57%.,2.884
+cotton,0.528,59.8,11.95,106.92,23.08,228.27,5.02,0,148,22.17,81.91,Karnataka,Summer,Farmer in Karnataka reports crop cotton with NDVI 0.528 and soil moisture 11.95%.,3.082
+cotton,0.295,79.01,53.01,118.7,20.48,152.89,3.92,3.81,49,27.22,50.44,Rajasthan,Summer,Farmer in Rajasthan reports crop cotton with NDVI 0.295 and soil moisture 53.01%.,2.112
+cotton,0.54,39.79,19.67,101.85,27.77,160.56,0.63,3.69,135,24.47,60.23,Kerala,Rabi,Farmer in Kerala reports crop cotton with NDVI 0.54 and soil moisture 19.67%.,3.188
+soybean,0.567,56.73,26.33,90.87,22.85,149.79,9.17,0,18,28.25,84.2,Maharashtra,Kharif,Farmer in Maharashtra reports crop soybean with NDVI 0.567 and soil moisture 26.33%.,2.784
+rice,0.612,24.68,22.54,156.6,32.14,227.36,1.16,0,123,31.61,65.03,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop rice with NDVI 0.612 and soil moisture 22.54%.,3.72
+maize,0.602,70.95,52.72,144.84,24.34,139.82,5.71,3.58,104,21.03,39.03,Karnataka,Rabi,Farmer in Karnataka reports crop maize with NDVI 0.602 and soil moisture 52.72%.,2.877
+soybean,0.555,8.49,22.86,103.18,27.72,201.91,5.03,0,25,28.54,74.39,Kerala,Kharif,Farmer in Kerala reports crop soybean with NDVI 0.555 and soil moisture 22.86%.,3.162
+cotton,0.636,61.43,52.85,177.15,30.47,133.34,2.62,2.98,41,30.21,64.93,Karnataka,Rabi,Farmer in Karnataka reports crop cotton with NDVI 0.636 and soil moisture 52.85%.,3.348
+cotton,0.484,22.45,49.43,100.78,21.95,127.81,4.9,1.38,64,31.47,56.76,Punjab,Summer,Farmer in Punjab reports crop cotton with NDVI 0.484 and soil moisture 49.43%.,2.824
+soybean,0.593,9.4,41.14,90.16,31.73,237.99,0,2.6,95,28.2,51.2,Punjab,Rabi,Farmer in Punjab reports crop soybean with NDVI 0.593 and soil moisture 41.14%.,3.519
+maize,0.597,44.13,45.89,118.22,27.73,178.76,0.25,4.34,62,26.91,59.25,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop maize with NDVI 0.597 and soil moisture 45.89%.,3.332
+wheat,0.435,34.06,30.28,117.84,25.48,149.12,7.11,3.56,65,34.91,62.2,Rajasthan,Rabi,Farmer in Rajasthan reports crop wheat with NDVI 0.435 and soil moisture 30.28%.,2.238
+maize,0.491,83.02,61.08,106.41,23.25,204.47,1.97,0.78,10,29.72,47,Karnataka,Rabi,Farmer in Karnataka reports crop maize with NDVI 0.491 and soil moisture 61.08%.,3.198
+rice,0.416,41.57,47.44,104.95,27.35,154.23,4.64,2.71,148,24.13,58.53,Tamil Nadu,Rabi,Farmer in Tamil Nadu reports crop rice with NDVI 0.416 and soil moisture 47.44%.,2.513
+rice,0.477,54.61,31.53,166.98,24.6,233.77,0,0.68,16,32.41,60.78,Tamil Nadu,Rabi,Farmer in Tamil Nadu reports crop rice with NDVI 0.477 and soil moisture 31.53%.,3.363
+maize,0.637,93.38,55.13,99.81,24.58,182.66,1.24,3.62,70,32.3,50.81,Punjab,Kharif,Farmer in Punjab reports crop maize with NDVI 0.637 and soil moisture 55.13%.,3.425
+soybean,0.464,99.57,65.48,74.68,30.89,150.2,2.54,2.05,54,28.58,68.06,Karnataka,Rabi,Farmer in Karnataka reports crop soybean with NDVI 0.464 and soil moisture 65.48%.,2.933
+rice,0.415,86.74,35.41,120.78,27.97,160.6,1.68,4.18,117,34.26,52.82,Punjab,Rabi,Farmer in Punjab reports crop rice with NDVI 0.415 and soil moisture 35.41%.,2.659
+soybean,0.389,94.37,57.23,122.23,37.02,105.91,2.89,2.24,26,25.67,72.03,Punjab,Summer,Farmer in Punjab reports crop soybean with NDVI 0.389 and soil moisture 57.23%.,2.654
+cotton,0.452,82.67,48.87,100.18,31.34,257.32,3.67,0,141,26.09,66.7,Maharashtra,Kharif,Farmer in Maharashtra reports crop cotton with NDVI 0.452 and soil moisture 48.87%.,2.989
+soybean,0.504,37.35,48.73,113.6,20.21,93.13,2.2,0.44,138,34.26,54,Punjab,Kharif,Farmer in Punjab reports crop soybean with NDVI 0.504 and soil moisture 48.73%.,3.248
+maize,0.529,60.5,37.35,71.02,19.98,195.74,2.99,4.47,143,36.25,56.26,Rajasthan,Rabi,Farmer in Rajasthan reports crop maize with NDVI 0.529 and soil moisture 37.35%.,2.841
+rice,0.692,89.03,54.36,71.62,18.43,229.82,3.72,1.1,17,22.98,55.37,Maharashtra,Summer,Farmer in Maharashtra reports crop rice with NDVI 0.692 and soil moisture 54.36%.,3.594
+wheat,0.383,65.02,37.96,101.65,25.3,175.72,5.96,6.56,119,24.1,81,Maharashtra,Kharif,Farmer in Maharashtra reports crop wheat with NDVI 0.383 and soil moisture 37.96%.,1.897
+wheat,0.644,43.49,44.53,152.07,23.19,153.73,1.2,0,123,31.66,53.98,Maharashtra,Summer,Farmer in Maharashtra reports crop wheat with NDVI 0.644 and soil moisture 44.53%.,3.812
+wheat,0.472,55.4,44.18,158.94,25.17,212.61,5.32,2.96,47,34.01,57.53,Punjab,Kharif,Farmer in Punjab reports crop wheat with NDVI 0.472 and soil moisture 44.18%.,2.588
+wheat,0.611,12.56,17.58,84.12,30.55,205.57,4.95,3.24,150,31,51.29,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop wheat with NDVI 0.611 and soil moisture 17.58%.,3.014
+rice,0.615,24.46,43.25,108.92,24.53,208.93,2.5,3.93,145,28.73,54.21,Maharashtra,Summer,Farmer in Maharashtra reports crop rice with NDVI 0.615 and soil moisture 43.25%.,3.202
+rice,0.44,51.13,42.5,113.9,29.8,213.01,2.04,2.81,120,24.35,56.59,Maharashtra,Summer,Farmer in Maharashtra reports crop rice with NDVI 0.44 and soil moisture 42.5%.,2.835
+wheat,0.473,104.85,39.3,143.35,29.11,187.81,3.3,1.68,65,23.86,63.29,Kerala,Rabi,Farmer in Kerala reports crop wheat with NDVI 0.473 and soil moisture 39.3%.,2.921
+cotton,0.666,52.06,42.47,90.55,9.03,187.59,3.25,6.83,115,29.72,58.3,Maharashtra,Rabi,Farmer in Maharashtra reports crop cotton with NDVI 0.666 and soil moisture 42.47%.,2.99
+rice,0.703,30.39,37.39,108.66,14.57,198.16,3.49,0.52,116,25.17,64.87,Maharashtra,Kharif,Farmer in Maharashtra reports crop rice with NDVI 0.703 and soil moisture 37.39%.,3.708
+wheat,0.69,69.45,50.18,105.04,19.6,183.31,3.93,3.41,90,34.54,51.35,Karnataka,Kharif,Farmer in Karnataka reports crop wheat with NDVI 0.69 and soil moisture 50.18%.,3.336
+rice,0.547,83.71,30.83,62.76,21,281.85,0,3.88,131,28.24,66.94,Karnataka,Rabi,Farmer in Karnataka reports crop rice with NDVI 0.547 and soil moisture 30.83%.,3.253
+wheat,0.379,108.51,63.17,165.44,30.23,244.25,3.55,2.07,33,24.38,69.89,Punjab,Rabi,Farmer in Punjab reports crop wheat with NDVI 0.379 and soil moisture 63.17%.,2.575
+cotton,0.467,105.23,49.89,79.47,14.05,186.15,2.34,4.9,105,33.58,64.77,Punjab,Summer,Farmer in Punjab reports crop cotton with NDVI 0.467 and soil moisture 49.89%.,2.677
+maize,0.709,71.64,42.57,130.13,32.62,190.73,4.87,1.68,94,27.28,49.9,Rajasthan,Rabi,Farmer in Rajasthan reports crop maize with NDVI 0.709 and soil moisture 42.57%.,3.472
+wheat,0.505,22.36,38.59,94.42,27.22,136.76,4.77,0.85,118,33.92,63.41,Maharashtra,Kharif,Farmer in Maharashtra reports crop wheat with NDVI 0.505 and soil moisture 38.59%.,2.953
+wheat,0.405,60.23,40.81,140.36,26.66,168.6,1.07,0,89,27,63.09,Karnataka,Summer,Farmer in Karnataka reports crop wheat with NDVI 0.405 and soil moisture 40.81%.,3.108
+rice,0.449,55.55,53.46,159.78,10.68,236.71,5.56,0,139,34.21,63.02,Punjab,Summer,Farmer in Punjab reports crop rice with NDVI 0.449 and soil moisture 53.46%.,2.791
+maize,0.504,63.47,54.48,139.41,12.39,232.54,4.45,5.78,133,21.14,57.4,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop maize with NDVI 0.504 and soil moisture 54.48%.,2.489
+maize,0.554,69.72,50.13,146.01,26.6,196.25,2.11,0.95,104,25.74,60.71,Punjab,Kharif,Farmer in Punjab reports crop maize with NDVI 0.554 and soil moisture 50.13%.,3.356
+wheat,0.712,82.32,57.19,172.24,32.86,182.11,3.51,2.78,67,26.14,71.1,Karnataka,Summer,Farmer in Karnataka reports crop wheat with NDVI 0.712 and soil moisture 57.19%.,3.507
+cotton,0.484,38.32,41.25,62.83,21.07,119.99,2.71,6.95,16,26.18,49.59,Rajasthan,Summer,Farmer in Rajasthan reports crop cotton with NDVI 0.484 and soil moisture 41.25%.,2.486
+soybean,0.693,89.56,46.23,102.65,14.51,123.34,0,2.76,78,24.54,61.88,Kerala,Summer,Farmer in Kerala reports crop soybean with NDVI 0.693 and soil moisture 46.23%.,3.803
+wheat,0.592,47.39,66.04,142.21,20.7,110.84,2.64,2.99,89,29.3,67.97,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop wheat with NDVI 0.592 and soil moisture 66.04%.,3.213
+rice,0.505,64.24,62.29,142.78,25.78,172.1,5.81,3.68,56,32.95,58.25,Karnataka,Rabi,Farmer in Karnataka reports crop rice with NDVI 0.505 and soil moisture 62.29%.,2.566
+maize,0.598,87.16,54.48,95.51,28.68,163.71,1.03,1.71,112,33.41,45.61,Rajasthan,Summer,Farmer in Rajasthan reports crop maize with NDVI 0.598 and soil moisture 54.48%.,3.52
+wheat,0.469,87.35,42.2,49.47,31.59,218.46,2.28,0,17,23.59,39.93,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop wheat with NDVI 0.469 and soil moisture 42.2%.,3.179
+wheat,0.38,20.71,28.31,114.42,25.42,237.09,2.2,4.45,65,31.71,57.59,Kerala,Summer,Farmer in Kerala reports crop wheat with NDVI 0.38 and soil moisture 28.31%.,2.475
+cotton,0.723,65.03,26.51,130.04,24.78,172.16,1.61,4.03,97,21.36,54.67,Maharashtra,Kharif,Farmer in Maharashtra reports crop cotton with NDVI 0.723 and soil moisture 26.51%.,3.605
+maize,0.568,71.48,58.89,136.25,26.15,216.69,0,1.45,93,27.62,73.15,Karnataka,Kharif,Farmer in Karnataka reports crop maize with NDVI 0.568 and soil moisture 58.89%.,3.559
+soybean,0.349,65.21,61.35,100.75,27.41,198.16,1.71,0.61,23,32.95,58.74,Rajasthan,Rabi,Farmer in Rajasthan reports crop soybean with NDVI 0.349 and soil moisture 61.35%.,2.815
+maize,0.407,111.24,46.69,132.7,22.12,199.36,3.55,2.59,22,22.5,74.94,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop maize with NDVI 0.407 and soil moisture 46.69%.,2.607
+wheat,0.499,49.56,32.2,101.06,28.86,151.15,2.43,0,118,30.74,67.47,Karnataka,Kharif,Farmer in Karnataka reports crop wheat with NDVI 0.499 and soil moisture 32.2%.,3.254
+cotton,0.765,104.65,43.98,145.37,20.89,138.19,4.19,2.7,116,27.53,60.45,Rajasthan,Kharif,Farmer in Rajasthan reports crop cotton with NDVI 0.765 and soil moisture 43.98%.,3.606
+rice,0.546,25.86,29.18,149.26,29.94,148.3,2.71,0,39,27.97,44.22,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop rice with NDVI 0.546 and soil moisture 29.18%.,3.367
+rice,0.688,15.97,35.08,110.56,25.24,217.38,3.07,3.81,82,31.36,61.2,Maharashtra,Rabi,Farmer in Maharashtra reports crop rice with NDVI 0.688 and soil moisture 35.08%.,3.376
+soybean,0.525,92.16,40.58,43.18,15.15,207.62,1.99,1.99,88,30.24,61.88,Maharashtra,Summer,Farmer in Maharashtra reports crop soybean with NDVI 0.525 and soil moisture 40.58%.,3.177
+wheat,0.557,36.43,41.91,93.31,19.78,189.71,0,4.74,24,29.32,58.28,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop wheat with NDVI 0.557 and soil moisture 41.91%.,3.197
+wheat,0.721,96.77,73.63,103.77,23.16,160.54,2.63,4.02,64,22.4,72.07,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop wheat with NDVI 0.721 and soil moisture 73.63%.,3.498
+maize,0.664,21.71,14.89,133.94,19.38,185.57,2.64,2.79,93,30.18,54.21,Karnataka,Kharif,Farmer in Karnataka reports crop maize with NDVI 0.664 and soil moisture 14.89%.,3.449
+wheat,0.615,53.52,42.4,133.89,34.34,217.86,3.49,0.82,120,30.52,55.82,Punjab,Kharif,Farmer in Punjab reports crop wheat with NDVI 0.615 and soil moisture 42.4%.,3.414
+maize,0.647,35.19,33.74,162.53,34.16,117.79,4.53,1.72,146,24.19,45.84,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop maize with NDVI 0.647 and soil moisture 33.74%.,3.316
+maize,0.721,76.02,31.41,135.62,22.05,153.42,0.42,5.36,100,22.85,57.08,Rajasthan,Summer,Farmer in Rajasthan reports crop maize with NDVI 0.721 and soil moisture 31.41%.,3.585
+wheat,0.53,51.9,57.61,146.78,16.47,170.53,1.65,3.84,20,18.1,68.18,Maharashtra,Summer,Farmer in Maharashtra reports crop wheat with NDVI 0.53 and soil moisture 57.61%.,3.041
+cotton,0.799,72.5,34.59,177.62,31.28,185.17,2.38,2.91,29,34.12,61.56,Punjab,Kharif,Farmer in Punjab reports crop cotton with NDVI 0.799 and soil moisture 34.59%.,3.868
+rice,0.547,48.58,25.07,122.51,29.34,188.83,5.06,2.42,113,28.16,46.41,Rajasthan,Kharif,Farmer in Rajasthan reports crop rice with NDVI 0.547 and soil moisture 25.07%.,2.893
+cotton,0.378,93.12,65.29,164.85,26.65,119.31,4.08,4.73,113,28.34,57.93,Karnataka,Rabi,Farmer in Karnataka reports crop cotton with NDVI 0.378 and soil moisture 65.29%.,2.253
+wheat,0.588,29.87,50.9,122.23,29.22,143.52,3.71,6.87,127,28.04,68.06,Karnataka,Rabi,Farmer in Karnataka reports crop wheat with NDVI 0.588 and soil moisture 50.9%.,2.706
+rice,0.637,47.99,27.31,196.5,20.24,196.03,3.67,2.78,37,30.2,39.06,Punjab,Kharif,Farmer in Punjab reports crop rice with NDVI 0.637 and soil moisture 27.31%.,3.266
+maize,0.528,115.78,48.36,126.11,16.38,204.79,1.75,0,112,29.45,36.26,Maharashtra,Summer,Farmer in Maharashtra reports crop maize with NDVI 0.528 and soil moisture 48.36%.,3.409
+soybean,0.609,56.15,39.44,113.67,40.87,186.3,3.7,5.25,89,19.46,56.16,Punjab,Kharif,Farmer in Punjab reports crop soybean with NDVI 0.609 and soil moisture 39.44%.,2.932
+rice,0.524,72.09,54.6,160.85,24.77,205.25,3.7,4.98,53,27.8,36.42,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop rice with NDVI 0.524 and soil moisture 54.6%.,2.704
+wheat,0.799,102.03,38.49,62.5,30.94,208.5,3.04,1.93,39,25.8,37.99,Rajasthan,Summer,Farmer in Rajasthan reports crop wheat with NDVI 0.799 and soil moisture 38.49%.,3.9
+soybean,0.552,45.52,50.26,138.03,20.66,145.61,5.52,1.18,99,23.81,57.98,Rajasthan,Rabi,Farmer in Rajasthan reports crop soybean with NDVI 0.552 and soil moisture 50.26%.,2.986
+rice,0.606,65.04,19.7,170.94,21.07,144.92,2.9,0,47,32.68,60.35,Kerala,Summer,Farmer in Kerala reports crop rice with NDVI 0.606 and soil moisture 19.7%.,3.528
+maize,0.486,62.32,25.07,103.44,24.91,189.7,0,5.25,75,28.98,52.13,Punjab,Rabi,Farmer in Punjab reports crop maize with NDVI 0.486 and soil moisture 25.07%.,2.933
+maize,0.633,80.48,38.01,122.83,30.58,195.05,1.14,4.87,49,22.9,44.97,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop maize with NDVI 0.633 and soil moisture 38.01%.,3.298
+wheat,0.503,47.78,48.97,140.12,21.08,145.85,1.55,0,136,28.35,47.95,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop wheat with NDVI 0.503 and soil moisture 48.97%.,3.354
+cotton,0.7,32.92,37.41,185.82,22.35,146.07,3.84,4.4,124,28.33,49.97,Rajasthan,Summer,Farmer in Rajasthan reports crop cotton with NDVI 0.7 and soil moisture 37.41%.,3.276
+soybean,0.69,63.71,31.26,92.44,19.3,191.65,4.32,3.21,92,35.96,61.21,Kerala,Summer,Farmer in Kerala reports crop soybean with NDVI 0.69 and soil moisture 31.26%.,3.317
+rice,0.625,46.88,39.44,116.07,23.25,223.47,8.32,3.08,27,24.16,77,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop rice with NDVI 0.625 and soil moisture 39.44%.,2.735
+cotton,0.501,19.93,24.16,96.46,27.37,214.31,5.4,0.76,87,26.01,57.28,Maharashtra,Summer,Farmer in Maharashtra reports crop cotton with NDVI 0.501 and soil moisture 24.16%.,2.887
+rice,0.536,110.05,57.97,122.4,15.64,233.9,1.87,3.23,100,28.22,58.31,Rajasthan,Rabi,Farmer in Rajasthan reports crop rice with NDVI 0.536 and soil moisture 57.97%.,3.098
+soybean,0.304,77.72,35.7,130.99,12.55,172.79,1.86,1.19,128,26.25,65.84,Punjab,Kharif,Farmer in Punjab reports crop soybean with NDVI 0.304 and soil moisture 35.7%.,2.607
+cotton,0.54,41.14,33.33,90.47,18.54,202.14,4.26,3.24,104,30.6,69.76,Punjab,Rabi,Farmer in Punjab reports crop cotton with NDVI 0.54 and soil moisture 33.33%.,2.87
+rice,0.585,23.08,17.22,181.06,22.64,155.69,0.29,0,33,32.05,58.63,Punjab,Summer,Farmer in Punjab reports crop rice with NDVI 0.585 and soil moisture 17.22%.,3.726
+soybean,0.571,93.72,51.39,131.17,29.61,123.93,3.68,2.59,108,28.13,54.03,Rajasthan,Summer,Farmer in Rajasthan reports crop soybean with NDVI 0.571 and soil moisture 51.39%.,3.086
+cotton,0.565,25.56,21.99,158.94,22.93,230.96,2.37,0.9,20,33.75,64.82,Rajasthan,Summer,Farmer in Rajasthan reports crop cotton with NDVI 0.565 and soil moisture 21.99%.,3.368
+cotton,0.624,63.93,64.34,156.46,16.98,232.46,3.76,4.29,58,31.99,54.93,Rajasthan,Summer,Farmer in Rajasthan reports crop cotton with NDVI 0.624 and soil moisture 64.34%.,3.067
+rice,0.336,93.37,54.28,120.48,15.25,239.58,7.26,1.06,138,27.22,59.44,Rajasthan,Kharif,Farmer in Rajasthan reports crop rice with NDVI 0.336 and soil moisture 54.28%.,2.176
+maize,0.391,59.46,62.07,125.25,14.3,227.93,2.92,1.75,36,26.13,77.75,Punjab,Kharif,Farmer in Punjab reports crop maize with NDVI 0.391 and soil moisture 62.07%.,2.706
+rice,0.61,88.98,57.98,150.93,24.19,165.25,4.63,4.31,139,25.63,69.43,Kerala,Rabi,Farmer in Kerala reports crop rice with NDVI 0.61 and soil moisture 57.98%.,2.936
+maize,0.536,100.23,58.38,137.79,23.22,170.44,4.8,1.26,122,28.66,57.48,Punjab,Rabi,Farmer in Punjab reports crop maize with NDVI 0.536 and soil moisture 58.38%.,3.002
+cotton,0.401,44.14,42.61,77.71,24,190.75,2.99,4.79,50,23.87,61.64,Rajasthan,Summer,Farmer in Rajasthan reports crop cotton with NDVI 0.401 and soil moisture 42.61%.,2.425
+rice,0.612,47.74,43.73,40.24,12.69,247.25,1.37,1.77,109,35.68,58.17,Karnataka,Kharif,Farmer in Karnataka reports crop rice with NDVI 0.612 and soil moisture 43.73%.,3.522
+cotton,0.645,74.38,37.71,136.14,20.17,268.45,3.45,1.22,23,32.04,64.41,Karnataka,Summer,Farmer in Karnataka reports crop cotton with NDVI 0.645 and soil moisture 37.71%.,3.468
+rice,0.373,74.34,32.53,148.25,16.94,144.51,0,4.52,34,26.95,70.44,Punjab,Kharif,Farmer in Punjab reports crop rice with NDVI 0.373 and soil moisture 32.53%.,2.667
+soybean,0.52,58.12,40.35,82.86,23.34,186.56,3.46,1.94,82,25.19,77.88,Kerala,Kharif,Farmer in Kerala reports crop soybean with NDVI 0.52 and soil moisture 40.35%.,3.02
+rice,0.501,41.1,32.73,123.2,24.02,177.91,1.9,2.02,48,28.46,64.74,Kerala,Summer,Farmer in Kerala reports crop rice with NDVI 0.501 and soil moisture 32.73%.,3.111
+rice,0.508,102.63,43.15,89.93,30.53,222.74,5.26,1.95,46,18.39,58.79,Punjab,Summer,Farmer in Punjab reports crop rice with NDVI 0.508 and soil moisture 43.15%.,2.803
+rice,0.491,45.32,33.27,133.78,24.11,188.45,2.92,3.36,110,32.76,75.38,Karnataka,Summer,Farmer in Karnataka reports crop rice with NDVI 0.491 and soil moisture 33.27%.,2.845
+maize,0.462,95.4,47.68,198.73,17.55,268.95,2.43,1.23,31,27.37,60.48,Rajasthan,Summer,Farmer in Rajasthan reports crop maize with NDVI 0.462 and soil moisture 47.68%.,3.02
+rice,0.655,58.48,39.75,163.08,26.01,205.3,3.49,5.04,94,27.82,67.1,Rajasthan,Kharif,Farmer in Rajasthan reports crop rice with NDVI 0.655 and soil moisture 39.75%.,3.112
+maize,0.588,101.25,52.97,109.56,21.44,126.4,7.2,2.41,144,35.29,50.19,Kerala,Summer,Farmer in Kerala reports crop maize with NDVI 0.588 and soil moisture 52.97%.,2.803
+wheat,0.47,52.57,43.11,151.57,27.79,150.42,4.29,0,118,26.74,59.59,Kerala,Summer,Farmer in Kerala reports crop wheat with NDVI 0.47 and soil moisture 43.11%.,2.981
+soybean,0.692,10.82,25.85,159.15,34.98,198.53,2.03,1.06,102,29.62,80.43,Karnataka,Rabi,Farmer in Karnataka reports crop soybean with NDVI 0.692 and soil moisture 25.85%.,3.767
+rice,0.531,105.27,45.09,135.04,25.62,213.6,2.67,3.58,97,23.01,80.61,Tamil Nadu,Rabi,Farmer in Tamil Nadu reports crop rice with NDVI 0.531 and soil moisture 45.09%.,2.968
+cotton,0.762,73.4,44.84,93.73,24.73,167.53,1.85,4.63,45,24.65,59.38,Tamil Nadu,Rabi,Farmer in Tamil Nadu reports crop cotton with NDVI 0.762 and soil moisture 44.84%.,3.638
+maize,0.175,120.13,56.54,131.9,34.49,152.87,0,0.12,35,25.59,60.8,Punjab,Kharif,Farmer in Punjab reports crop maize with NDVI 0.175 and soil moisture 56.54%.,2.513
+soybean,0.56,71.91,44.9,108.97,29.07,202.96,1.22,3.16,144,23.39,41.42,Rajasthan,Summer,Farmer in Rajasthan reports crop soybean with NDVI 0.56 and soil moisture 44.9%.,3.242
+wheat,0.753,93.51,38.81,130.35,30.21,102.08,0.88,2.52,43,31.12,41.19,Kerala,Kharif,Farmer in Kerala reports crop wheat with NDVI 0.753 and soil moisture 38.81%.,3.919
+soybean,0.791,62.39,51.61,82.09,29.58,72.15,0,2.99,51,28.04,56.45,Maharashtra,Rabi,Farmer in Maharashtra reports crop soybean with NDVI 0.791 and soil moisture 51.61%.,4.074
+maize,0.442,50.39,47.66,100.96,12.16,162.98,0,0.71,52,24.85,62.26,Kerala,Summer,Farmer in Kerala reports crop maize with NDVI 0.442 and soil moisture 47.66%.,3.255
+cotton,0.654,45.77,28.3,96.34,25.5,220.11,5.94,4.95,103,30.48,53.54,Punjab,Kharif,Farmer in Punjab reports crop cotton with NDVI 0.654 and soil moisture 28.3%.,2.873
+maize,0.615,83.33,47.77,98.11,23.37,196.22,0,1.51,82,25.08,71.08,Maharashtra,Summer,Farmer in Maharashtra reports crop maize with NDVI 0.615 and soil moisture 47.77%.,3.694
+cotton,0.722,61.43,48.21,69.9,17.59,202.68,0,3.81,71,28.6,53.01,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop cotton with NDVI 0.722 and soil moisture 48.21%.,3.785
+rice,0.614,78.51,41.2,139.08,24.1,175.27,2.87,0,104,33.83,59.24,Maharashtra,Rabi,Farmer in Maharashtra reports crop rice with NDVI 0.614 and soil moisture 41.2%.,3.555
+soybean,0.557,75.5,36.58,139.35,21.82,131.01,2.8,3.67,82,22.81,55.18,Maharashtra,Kharif,Farmer in Maharashtra reports crop soybean with NDVI 0.557 and soil moisture 36.58%.,3.024
+cotton,0.462,86.5,52.54,105.29,27.3,182.92,1.5,2.27,117,22.19,53.74,Rajasthan,Summer,Farmer in Rajasthan reports crop cotton with NDVI 0.462 and soil moisture 52.54%.,3.009
+maize,0.652,42.35,24.07,113.48,23.47,213.8,3.71,4.44,45,32.4,56.59,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop maize with NDVI 0.652 and soil moisture 24.07%.,3.141
+rice,0.673,36.57,43.72,115.35,24.05,225.32,3.11,0,133,29.02,65.61,Punjab,Summer,Farmer in Punjab reports crop rice with NDVI 0.673 and soil moisture 43.72%.,3.708
+rice,0.515,125.3,76.53,141.66,29.58,159.09,0.95,2.5,142,31.36,71.5,Rajasthan,Rabi,Farmer in Rajasthan reports crop rice with NDVI 0.515 and soil moisture 76.53%.,3.2
+wheat,0.585,68.38,46.82,118.5,24.04,139.14,1.85,1.43,51,29.59,58.33,Karnataka,Rabi,Farmer in Karnataka reports crop wheat with NDVI 0.585 and soil moisture 46.82%.,3.427
+rice,0.623,127.6,65.81,117.69,25.12,196.79,4.65,0,47,26.36,51.4,Maharashtra,Summer,Farmer in Maharashtra reports crop rice with NDVI 0.623 and soil moisture 65.81%.,3.404
+cotton,0.582,13,32.6,82.71,12.67,158.45,3.31,0.43,125,30.16,63.72,Punjab,Rabi,Farmer in Punjab reports crop cotton with NDVI 0.582 and soil moisture 32.6%.,3.372
+rice,0.492,102.28,22.12,117.21,32.19,158.28,0.84,5.19,23,26.88,56.34,Punjab,Kharif,Farmer in Punjab reports crop rice with NDVI 0.492 and soil moisture 22.12%.,2.873
+cotton,0.723,93.81,43.15,61.76,18.15,146.54,4.95,3.13,70,32.3,79.56,Rajasthan,Kharif,Farmer in Rajasthan reports crop cotton with NDVI 0.723 and soil moisture 43.15%.,3.361
+cotton,0.42,73.42,41.59,108.37,21.52,252.57,3.69,6.27,67,26.95,39.44,Punjab,Kharif,Farmer in Punjab reports crop cotton with NDVI 0.42 and soil moisture 41.59%.,2.264
+wheat,0.486,72.99,44.01,135.14,22.77,242.47,6.1,6.05,95,26.44,58.98,Karnataka,Rabi,Farmer in Karnataka reports crop wheat with NDVI 0.486 and soil moisture 44.01%.,2.243
+maize,0.441,102.11,51.73,126.57,31.56,187.36,2.35,1.28,83,35.81,48.6,Tamil Nadu,Rabi,Farmer in Tamil Nadu reports crop maize with NDVI 0.441 and soil moisture 51.73%.,2.96
+cotton,0.688,38.9,43.25,53.97,29.49,101.72,3.04,3.05,130,25.69,63.21,Kerala,Rabi,Farmer in Kerala reports crop cotton with NDVI 0.688 and soil moisture 43.25%.,3.455
+cotton,0.542,31.97,54.66,68.96,34.34,115.08,4.66,0.36,30,25.95,44.45,Rajasthan,Rabi,Farmer in Rajasthan reports crop cotton with NDVI 0.542 and soil moisture 54.66%.,3.124
+wheat,0.45,11.94,38.87,81.07,25.8,195.8,3.7,6.02,48,31.31,53.49,Karnataka,Rabi,Farmer in Karnataka reports crop wheat with NDVI 0.45 and soil moisture 38.87%.,2.378
+soybean,0.422,23.29,40.41,170.88,30.44,247.57,3.29,0.58,145,32.25,48.26,Kerala,Summer,Farmer in Kerala reports crop soybean with NDVI 0.422 and soil moisture 40.41%.,2.879
+cotton,0.409,44.54,57.77,62.53,33.9,186.32,6.04,2.01,70,21.55,58.34,Punjab,Kharif,Farmer in Punjab reports crop cotton with NDVI 0.409 and soil moisture 57.77%.,2.422
+rice,0.425,82.21,46.8,67.11,15.72,166.85,1.45,4.51,71,28.64,50.98,Punjab,Rabi,Farmer in Punjab reports crop rice with NDVI 0.425 and soil moisture 46.8%.,2.679
+cotton,0.726,45.91,17.96,140.59,18.21,148.88,7.08,3.95,127,25.39,49.35,Kerala,Summer,Farmer in Kerala reports crop cotton with NDVI 0.726 and soil moisture 17.96%.,3.075
+wheat,0.635,95.68,45.18,155.42,31.21,183.26,2.77,5.16,147,26.72,61.17,Punjab,Kharif,Farmer in Punjab reports crop wheat with NDVI 0.635 and soil moisture 45.18%.,3.112
+wheat,0.605,24.25,32.3,93.38,15.19,176.7,5.04,1.5,71,26.62,48.04,Kerala,Summer,Farmer in Kerala reports crop wheat with NDVI 0.605 and soil moisture 32.3%.,3.161
+maize,0.414,105.51,56.62,105.07,25.22,239.97,7.91,1.95,10,33.72,42.48,Karnataka,Kharif,Farmer in Karnataka reports crop maize with NDVI 0.414 and soil moisture 56.62%.,2.256
+soybean,0.705,73.49,39.5,68.54,31.95,120.03,2.37,3.44,116,23.55,55.36,Karnataka,Rabi,Farmer in Karnataka reports crop soybean with NDVI 0.705 and soil moisture 39.5%.,3.534
+maize,0.38,73.92,51.16,75.04,21.04,143.8,4.42,0.41,31,27.46,44.07,Kerala,Summer,Farmer in Kerala reports crop maize with NDVI 0.38 and soil moisture 51.16%.,2.657
+soybean,0.753,36.81,21.09,106.5,19.87,191.62,0,4.26,144,25.09,41.72,Karnataka,Rabi,Farmer in Karnataka reports crop soybean with NDVI 0.753 and soil moisture 21.09%.,3.833
+soybean,0.446,51.1,45.51,107.28,24.62,208.3,2.51,4.48,15,27.49,54.67,Rajasthan,Summer,Farmer in Rajasthan reports crop soybean with NDVI 0.446 and soil moisture 45.51%.,2.639
+cotton,0.695,103.59,31.09,150.44,28.95,175.75,0,1.52,109,32.53,57.84,Maharashtra,Rabi,Farmer in Maharashtra reports crop cotton with NDVI 0.695 and soil moisture 31.09%.,3.933
+rice,0.61,83.92,41.69,112.01,27.92,180.95,5.35,3.36,14,20.89,54.13,Karnataka,Summer,Farmer in Karnataka reports crop rice with NDVI 0.61 and soil moisture 41.69%.,2.959
+rice,0.621,67.92,34.56,128.59,20.4,165.13,4.39,1.41,71,29.86,54.29,Punjab,Kharif,Farmer in Punjab reports crop rice with NDVI 0.621 and soil moisture 34.56%.,3.283
+wheat,0.659,80.33,40.14,124.64,25.53,258.49,1.56,3.94,95,30.8,61.16,Rajasthan,Summer,Farmer in Rajasthan reports crop wheat with NDVI 0.659 and soil moisture 40.14%.,3.427
+maize,0.772,75.13,42.31,154.51,35.07,213.19,3.58,3.82,149,25.08,68.29,Punjab,Kharif,Farmer in Punjab reports crop maize with NDVI 0.772 and soil moisture 42.31%.,3.576
+rice,0.624,92.28,68.42,117.83,20.02,184.28,4.74,4.92,128,27.51,61.52,Kerala,Rabi,Farmer in Kerala reports crop rice with NDVI 0.624 and soil moisture 68.42%.,2.906
+cotton,0.674,46.73,46.81,121.46,19.22,224.41,0,2.25,44,24.3,55.91,Kerala,Rabi,Farmer in Kerala reports crop cotton with NDVI 0.674 and soil moisture 46.81%.,3.797
+wheat,0.589,10.9,23.8,182.41,32.5,154.64,1.87,3.55,19,27.09,55.42,Kerala,Kharif,Farmer in Kerala reports crop wheat with NDVI 0.589 and soil moisture 23.8%.,3.225
+rice,0.608,71.31,36.2,161.3,31.62,169.64,1.28,3.94,61,22.72,61.71,Tamil Nadu,Rabi,Farmer in Tamil Nadu reports crop rice with NDVI 0.608 and soil moisture 36.2%.,3.302
+wheat,0.507,24.21,28.89,155.72,35.81,191.49,1.93,1.75,141,30.23,56.51,Karnataka,Kharif,Farmer in Karnataka reports crop wheat with NDVI 0.507 and soil moisture 28.89%.,3.153
+cotton,0.509,21.34,30.07,162.09,22.81,169.22,5.25,6.06,74,25.5,58.31,Rajasthan,Kharif,Farmer in Rajasthan reports crop cotton with NDVI 0.509 and soil moisture 30.07%.,2.396
+wheat,0.499,73.32,59.45,158.55,20.32,248.91,4.02,5.17,83,26.58,55.81,Kerala,Rabi,Farmer in Kerala reports crop wheat with NDVI 0.499 and soil moisture 59.45%.,2.578
+rice,0.768,88.19,56.23,92.82,17.15,69.08,4.18,2.38,94,33.88,45.25,Punjab,Summer,Farmer in Punjab reports crop rice with NDVI 0.768 and soil moisture 56.23%.,3.648
+rice,0.514,30.06,29,97.51,19.88,110.11,5.57,1.26,121,26.51,60.05,Punjab,Kharif,Farmer in Punjab reports crop rice with NDVI 0.514 and soil moisture 29.0%.,2.859
+cotton,0.511,107.95,28.88,112.87,26.16,152.61,4.23,1.28,108,25.68,70.81,Kerala,Kharif,Farmer in Kerala reports crop cotton with NDVI 0.511 and soil moisture 28.88%.,2.982
+rice,0.301,68.63,29.18,109.47,29.3,108.79,1.15,2.05,137,32.79,67.24,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop rice with NDVI 0.301 and soil moisture 29.18%.,2.583
+rice,0.332,40.5,39.77,97.29,29.4,179.92,0,3.11,31,21.66,75.62,Rajasthan,Kharif,Farmer in Rajasthan reports crop rice with NDVI 0.332 and soil moisture 39.77%.,2.685
+cotton,0.584,63.94,38.26,126.1,30.95,193.46,3.04,3.19,56,28.7,64.49,Punjab,Kharif,Farmer in Punjab reports crop cotton with NDVI 0.584 and soil moisture 38.26%.,3.129
+soybean,0.56,78.72,58.55,115.7,23.77,152.73,4,0.81,36,25.67,54.46,Karnataka,Kharif,Farmer in Karnataka reports crop soybean with NDVI 0.56 and soil moisture 58.55%.,3.199
+wheat,0.406,99.4,40.67,153.3,11.83,127.16,2.94,5.72,85,23.98,59.08,Karnataka,Summer,Farmer in Karnataka reports crop wheat with NDVI 0.406 and soil moisture 40.67%.,2.352
+rice,0.401,40.62,29.35,142,25.93,249.68,0,1.89,119,26.18,50.97,Maharashtra,Summer,Farmer in Maharashtra reports crop rice with NDVI 0.401 and soil moisture 29.35%.,3.014
+maize,0.222,14.1,25.91,77.43,15.7,217.12,4.26,1.49,99,20.84,62.44,Kerala,Kharif,Farmer in Kerala reports crop maize with NDVI 0.222 and soil moisture 25.91%.,2.091
+cotton,0.506,64.21,20.01,117.03,26.42,166.26,0,0,100,20.49,53.07,Punjab,Summer,Farmer in Punjab reports crop cotton with NDVI 0.506 and soil moisture 20.01%.,3.518
+soybean,0.383,85.3,64.34,122.64,20.58,125.52,3.55,2.68,24,27.19,57,Maharashtra,Kharif,Farmer in Maharashtra reports crop soybean with NDVI 0.383 and soil moisture 64.34%.,2.526
+wheat,0.559,27.39,25.98,151.32,9.5,197.03,0,0,113,22.68,51.98,Kerala,Summer,Farmer in Kerala reports crop wheat with NDVI 0.559 and soil moisture 25.98%.,3.677
+rice,0.593,68.94,42.95,98.11,24.14,127.46,4.09,2.7,50,26.07,34.5,Rajasthan,Summer,Farmer in Rajasthan reports crop rice with NDVI 0.593 and soil moisture 42.95%.,3.1
+wheat,0.703,98.2,58.93,120.64,22.18,245.33,0.39,4.23,122,29.37,38.23,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop wheat with NDVI 0.703 and soil moisture 58.93%.,3.647
+wheat,0.579,47.4,38.24,117.13,24.67,182.09,2.62,5.83,70,21.82,64.27,Tamil Nadu,Rabi,Farmer in Tamil Nadu reports crop wheat with NDVI 0.579 and soil moisture 38.24%.,2.892
+rice,0.57,36.42,44.43,130.23,26.28,224.4,2.39,0,18,31.67,68.89,Karnataka,Kharif,Farmer in Karnataka reports crop rice with NDVI 0.57 and soil moisture 44.43%.,3.471
+soybean,0.631,1.72,28.3,137.04,32.44,188.26,2.52,1.44,125,24.36,82.33,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop soybean with NDVI 0.631 and soil moisture 28.3%.,3.497
+rice,0.528,53.09,45.59,195.14,17.63,207.55,3.6,2.28,29,23.89,64.68,Karnataka,Kharif,Farmer in Karnataka reports crop rice with NDVI 0.528 and soil moisture 45.59%.,2.996
+soybean,0.478,77.97,41.12,100.82,31.88,194.26,2.06,1.67,103,28.31,75.88,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop soybean with NDVI 0.478 and soil moisture 41.12%.,3.061
+cotton,0.436,2.44,34.35,131.86,13.45,165.53,2.36,3.78,81,24.07,53.3,Karnataka,Summer,Farmer in Karnataka reports crop cotton with NDVI 0.436 and soil moisture 34.35%.,2.694
+maize,0.505,109,53.86,121.41,30.41,164.15,3.17,1.52,57,19.67,57.29,Punjab,Rabi,Farmer in Punjab reports crop maize with NDVI 0.505 and soil moisture 53.86%.,3.046
+cotton,0.476,61.24,47.41,139.57,20.39,156.12,0.28,2.7,40,30.74,56.32,Rajasthan,Kharif,Farmer in Rajasthan reports crop cotton with NDVI 0.476 and soil moisture 47.41%.,3.13
+rice,0.31,19.5,33.36,132.83,26.41,216.33,3.73,5.7,124,26.6,51.19,Karnataka,Summer,Farmer in Karnataka reports crop rice with NDVI 0.31 and soil moisture 33.36%.,1.987
+maize,0.617,43.73,30.16,97.01,28.06,181.04,0.25,3.52,135,27.78,65.85,Rajasthan,Kharif,Farmer in Rajasthan reports crop maize with NDVI 0.617 and soil moisture 30.16%.,3.474
+maize,0.45,17.42,45.23,118.96,18.85,102.94,3.64,1.39,28,24.48,68.13,Punjab,Rabi,Farmer in Punjab reports crop maize with NDVI 0.45 and soil moisture 45.23%.,2.847
+cotton,0.494,86.27,72.77,153.48,22.92,156.09,4.38,1.83,123,29.13,52.47,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop cotton with NDVI 0.494 and soil moisture 72.77%.,2.861
+wheat,0.654,27.9,23.42,71.53,26.77,159.19,0.71,2.2,98,18.85,53.37,Kerala,Kharif,Farmer in Kerala reports crop wheat with NDVI 0.654 and soil moisture 23.42%.,3.671
+wheat,0.417,75.05,41.91,68.99,30.89,119.93,4.26,6.55,84,33.77,52.78,Rajasthan,Summer,Farmer in Rajasthan reports crop wheat with NDVI 0.417 and soil moisture 41.91%.,2.17
+rice,0.711,5.15,28.61,118.28,29.77,167.88,3.59,2.52,54,30.24,59.27,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop rice with NDVI 0.711 and soil moisture 28.61%.,3.522
+rice,0.584,54.2,40.48,101.6,28.31,132.69,0.68,2.84,41,23.82,55.94,Rajasthan,Rabi,Farmer in Rajasthan reports crop rice with NDVI 0.584 and soil moisture 40.48%.,3.4
+maize,0.639,80.94,59.82,141.79,25.33,150.78,4.13,0,136,29.05,49.31,Tamil Nadu,Rabi,Farmer in Tamil Nadu reports crop maize with NDVI 0.639 and soil moisture 59.82%.,3.504
+wheat,0.634,74.78,30.77,138.07,10.53,222.51,1.93,2.71,104,27.2,55.85,Karnataka,Summer,Farmer in Karnataka reports crop wheat with NDVI 0.634 and soil moisture 30.77%.,3.438
+cotton,0.585,55.6,43.36,137.81,28.59,197.64,3.11,2.81,32,29.92,56.86,Rajasthan,Rabi,Farmer in Rajasthan reports crop cotton with NDVI 0.585 and soil moisture 43.36%.,3.163
+wheat,0.589,79.35,52.62,150.5,27.85,252.93,1.24,0.42,132,23.7,59.75,Karnataka,Kharif,Farmer in Karnataka reports crop wheat with NDVI 0.589 and soil moisture 52.62%.,3.601
+soybean,0.488,24.18,55.57,104.81,31.67,212.91,4.55,2.28,28,24.52,56.05,Maharashtra,Kharif,Farmer in Maharashtra reports crop soybean with NDVI 0.488 and soil moisture 55.57%.,2.781
+maize,0.516,49.21,44.6,140.95,18.31,131.77,1.62,0.65,28,29.41,63.27,Karnataka,Summer,Farmer in Karnataka reports crop maize with NDVI 0.516 and soil moisture 44.6%.,3.321
+cotton,0.572,80.3,41.63,148.23,13.25,138.04,0.7,1.47,142,26.14,57.87,Maharashtra,Summer,Farmer in Maharashtra reports crop cotton with NDVI 0.572 and soil moisture 41.63%.,3.499
+rice,0.637,47.79,36.56,147.58,34.5,227.09,2.59,1.95,56,32.1,63.67,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop rice with NDVI 0.637 and soil moisture 36.56%.,3.457
+maize,0.551,55.26,24.83,120.07,28.59,188.89,2.52,6.37,24,27.3,61.43,Maharashtra,Summer,Farmer in Maharashtra reports crop maize with NDVI 0.551 and soil moisture 24.83%.,2.764
+wheat,0.788,40.52,50.84,119.3,22.49,208.46,0.42,1.37,87,32.09,48.85,Rajasthan,Rabi,Farmer in Rajasthan reports crop wheat with NDVI 0.788 and soil moisture 50.84%.,4.185
+maize,0.439,136.46,49.74,164.59,21.5,142.78,4.39,5.55,67,25.26,58.88,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop maize with NDVI 0.439 and soil moisture 49.74%.,2.323
+rice,0.374,49.44,37.26,126.6,20.65,227.07,4.78,5.19,30,26.37,56,Rajasthan,Kharif,Farmer in Rajasthan reports crop rice with NDVI 0.374 and soil moisture 37.26%.,2.125
+rice,0.733,70.84,54.81,91.56,19.51,197,2.46,4.6,80,26.33,56.01,Tamil Nadu,Summer,Farmer in Tamil Nadu reports crop rice with NDVI 0.733 and soil moisture 54.81%.,3.493
+maize,0.814,61.66,45.64,140.7,19.35,257.45,4.08,2.06,146,33.57,43,Kerala,Kharif,Farmer in Kerala reports crop maize with NDVI 0.814 and soil moisture 45.64%.,3.828
+wheat,0.596,76.04,51.3,107.71,25.24,156.26,1.87,1.36,53,27.38,38.18,Rajasthan,Summer,Farmer in Rajasthan reports crop wheat with NDVI 0.596 and soil moisture 51.3%.,3.465
+soybean,0.535,107.29,56.96,61.91,38.7,130.43,3.16,5.77,53,26.72,68.01,Rajasthan,Rabi,Farmer in Rajasthan reports crop soybean with NDVI 0.535 and soil moisture 56.96%.,2.712
+soybean,0.549,33.55,36.74,177.06,33.69,225.86,4.22,1.52,96,25.23,72.97,Kerala,Summer,Farmer in Kerala reports crop soybean with NDVI 0.549 and soil moisture 36.74%.,3.073
+soybean,0.455,82.16,56.92,123.31,27.24,240.59,1.6,2.6,30,19.41,57.87,Punjab,Rabi,Farmer in Punjab reports crop soybean with NDVI 0.455 and soil moisture 56.92%.,2.945
+wheat,0.56,40.53,34.85,87.3,26.77,174.58,7.69,1.9,77,26.51,55.7,Kerala,Summer,Farmer in Kerala reports crop wheat with NDVI 0.56 and soil moisture 34.85%.,2.721
+maize,0.694,49.91,47.74,180.69,24.03,149.51,3.15,4.22,17,32.86,56.07,Rajasthan,Kharif,Farmer in Rajasthan reports crop maize with NDVI 0.694 and soil moisture 47.74%.,3.345
+cotton,0.501,60.45,29.11,107.93,27.5,167.11,3.15,5.55,84,35.64,59.63,Kerala,Summer,Farmer in Kerala reports crop cotton with NDVI 0.501 and soil moisture 29.11%.,2.633
+rice,0.438,69.93,49.72,130.56,18.59,194.33,2.47,2.2,113,26.14,44.31,Maharashtra,Rabi,Farmer in Maharashtra reports crop rice with NDVI 0.438 and soil moisture 49.72%.,2.847
+rice,0.46,72.9,42.54,127.12,29.96,206.65,0,1.56,25,26.36,82.5,Maharashtra,Rabi,Farmer in Maharashtra reports crop rice with NDVI 0.46 and soil moisture 42.54%.,3.224
+maize,0.587,86.6,56.63,146.62,30.39,207.85,7.7,1.01,133,33.24,80.61,Maharashtra,Kharif,Farmer in Maharashtra reports crop maize with NDVI 0.587 and soil moisture 56.63%.,2.89
+cotton,0.563,73.03,50.59,103.64,28.92,165.14,3.09,0,46,24.43,76.99,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop cotton with NDVI 0.563 and soil moisture 50.59%.,3.38
+rice,0.548,74.82,28.84,148.23,25.93,149.16,0,4.25,98,25.64,58.83,Kerala,Kharif,Farmer in Kerala reports crop rice with NDVI 0.548 and soil moisture 28.84%.,3.219
+cotton,0.471,37.27,49.34,105.45,24.06,99.97,5.94,5.64,141,26.86,63.53,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop cotton with NDVI 0.471 and soil moisture 49.34%.,2.255
+soybean,0.568,56.79,38.7,143.78,11.49,238.55,0.31,5.91,71,25.68,64.23,Punjab,Kharif,Farmer in Punjab reports crop soybean with NDVI 0.568 and soil moisture 38.7%.,3.082
+cotton,0.362,78.44,34.21,119.86,28.74,86.42,0.18,0,125,28.42,68.08,Punjab,Kharif,Farmer in Punjab reports crop cotton with NDVI 0.362 and soil moisture 34.21%.,3.068
+maize,0.63,93.44,60.77,93.43,26.31,180.13,0,4.97,22,26.8,53.71,Tamil Nadu,Rabi,Farmer in Tamil Nadu reports crop maize with NDVI 0.63 and soil moisture 60.77%.,3.393
+rice,0.577,42.04,25.05,125.12,39.42,136.22,1.65,3.15,117,28.79,65.21,Maharashtra,Summer,Farmer in Maharashtra reports crop rice with NDVI 0.577 and soil moisture 25.05%.,3.251
+maize,0.45,75.97,55.19,90.95,22.9,202.76,1.68,0,90,28.42,57.41,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop maize with NDVI 0.45 and soil moisture 55.19%.,3.182
+maize,0.683,57.73,21.09,139.54,26.93,205.09,1.02,3.87,141,31.08,80.84,Tamil Nadu,Kharif,Farmer in Tamil Nadu reports crop maize with NDVI 0.683 and soil moisture 21.09%.,3.56
