@@ -696,4 +696,4 @@ app.post("/download-report", express.json({ limit: "10mb" }), (req, res) => {
 app.get("/", (req, res) => res.send("Upload+Predict server OK"));
 
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => console.log(`Upload+Predict server running at http://localhost:${PORT}`));
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
